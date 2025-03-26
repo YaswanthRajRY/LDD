@@ -1,1 +1,0 @@
-cmd_/home/ubuntu/LDD/Char_module/char_module.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/LDD/Char_module/char_module.ko /home/ubuntu/LDD/Char_module/char_module.o /home/ubuntu/LDD/Char_module/char_module.mod.o;  true
